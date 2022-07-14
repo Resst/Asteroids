@@ -1,0 +1,2 @@
+C:\Users\pein6\Asteroid\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\pein6\Asteroid\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
